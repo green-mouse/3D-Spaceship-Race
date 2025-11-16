@@ -1,6 +1,10 @@
 PRIVACY POLICY
 
-The game does not collect any data or location information, 
-however permissions are required for internet and device accelerometer 
-if you plan to play MULTIPLAYER and use phonetilt for controls.
-The app does/will contain ads provided by Google AdMob, the ads are non-targeted, non-personalized so again no data is collected.
+The game does not collect any data except location information.
+The game contain ads provided by Google AdMob, the ads are non-targeted, non-personalized 
+so only contextual data like the user's current location, the app's content are shared with Google AdMob.
+Google AdMob retains some user data even with non-personalized ads,
+primarily for purposes like ad frequency capping, fraud prevention,
+and aggregated reporting. However, it does not use past user behavior for ad targeting. 
+The data is deleted based on the specific report type and its retention policy, which can vary
+(e.g., User Activity reports are retained for 90 days, while Ads Activity reports are retained for 7 years)
